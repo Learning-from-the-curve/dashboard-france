@@ -1,2 +1,4 @@
 [10/06/2020 12:32:55] --- NATIONAL FILE CHECK
 [10/06/2020 12:32:55] no new date added
+[10/06/2020 20:17:18] --- NATIONAL FILE CHECK
+[10/06/2020 20:17:18] new date added: {'2020-06-10'}
