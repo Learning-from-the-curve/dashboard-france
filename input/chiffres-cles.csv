@@ -2274,7 +2274,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-03-19,departement,DEP-2B,Haute-Corse,26.0,,,,,,,,,,,,ARS Corse,https://www.corse.ars.sante.fr/informations-utiles-et-point-de-situation,http://web.archive.org/web/20200319171359/https://www.corse.ars.sante.fr/informations-utiles-et-point-de-situation,agences-regionales-sante
 2020-03-19,departement,DEP-2B,Haute-Corse,,,,,0.0,,0.0,0.0,1.0,0.0,0.0,,Santé publique France Data,,,sante-publique-france-data
 2020-03-19,departement,DEP-30,Gard,44.0,,,,,,,,,,,,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo11_20200319.png,,agences-regionales-sante
-2020-03-19,departement,DEP-30,Gard,,,,,1.0,,1.0,4.0,2.0,1.0,7.0,,Santé publique France Data,,,sante-publique-france-data
+2020-03-19,departement,DEP-30,Gard,,,,,1.0,,1.0,4.0,1.0,1.0,7.0,,Santé publique France Data,,,sante-publique-france-data
 2020-03-19,departement,DEP-31,Haute-Garonne,72.0,,,,,,,,,,,,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo11_20200319.png,,agences-regionales-sante
 2020-03-19,departement,DEP-31,Haute-Garonne,,,,,1.0,,6.0,26.0,8.0,3.0,13.0,,Santé publique France Data,,,sante-publique-france-data
 2020-03-19,departement,DEP-32,Gers,14.0,,,,,,,,,,,,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo11_20200319.png,,agences-regionales-sante
@@ -2316,7 +2316,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-03-19,departement,DEP-52,Haute-Marne,,,,,1.0,,0.0,4.0,0.0,0.0,0.0,,Santé publique France Data,,,sante-publique-france-data
 2020-03-19,departement,DEP-53,Mayenne,,,,,0.0,,1.0,5.0,3.0,2.0,3.0,,Santé publique France Data,,,sante-publique-france-data
 2020-03-19,departement,DEP-54,Meurthe-et-Moselle,,,,,6.0,,23.0,54.0,14.0,2.0,1.0,,Santé publique France Data,,,sante-publique-france-data
-2020-03-19,departement,DEP-55,Meuse,,,,,0.0,,3.0,35.0,37.0,4.0,4.0,,Santé publique France Data,,,sante-publique-france-data
+2020-03-19,departement,DEP-55,Meuse,,,,,0.0,,3.0,35.0,38.0,4.0,4.0,,Santé publique France Data,,,sante-publique-france-data
 2020-03-19,departement,DEP-56,Morbihan,134.0,,,,,,,,,,,,ARS Bretagne,https://www.bretagne.ars.sante.fr/system/files/2020-03/CP%20Coronavirus_Bretagne_point%20de%20situation%2017h30_200319.pdf,https://web.archive.org/web/20200319215630/https://www.bretagne.ars.sante.fr/system/files/2020-03/CP%20Coronavirus_Bretagne_point%20de%20situation%2017h30_200319.pdf,agences-regionales-sante
 2020-03-19,departement,DEP-56,Morbihan,,,,,9.0,,12.0,42.0,12.0,1.0,53.0,,Santé publique France Data,,,sante-publique-france-data
 2020-03-19,departement,DEP-57,Moselle,,,,,19.0,,46.0,194.0,36.0,15.0,15.0,,Santé publique France Data,,,sante-publique-france-data
@@ -2348,7 +2348,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-03-19,departement,DEP-73,Savoie,,,,,0.0,,2.0,10.0,9.0,2.0,5.0,,Santé publique France Data,,,sante-publique-france-data
 2020-03-19,departement,DEP-74,Haute-Savoie,199.0,,,,7.0,,,,,,,,ARS Auvergne-Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf,https://web.archive.org/web/20200321170531/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf,agences-regionales-sante
 2020-03-19,departement,DEP-74,Haute-Savoie,,,,,6.0,,11.0,37.0,13.0,2.0,49.0,,Santé publique France Data,,,sante-publique-france-data
-2020-03-19,departement,DEP-75,Paris,,,,,22.0,,122.0,453.0,168.0,41.0,62.0,,Santé publique France Data,,,sante-publique-france-data
+2020-03-19,departement,DEP-75,Paris,,,,,22.0,,122.0,453.0,168.0,42.0,62.0,,Santé publique France Data,,,sante-publique-france-data
 2020-03-19,departement,DEP-76,Seine-Maritime,77.0,,,,4.0,,,,,,,,ARS Normandie,https://www.normandie.ars.sante.fr/system/files/2020-03/20200319_CP-point-situation-normandie.pdf,https://web.archive.org/web/20200319214008/https://www.normandie.ars.sante.fr/system/files/2020-03/20200319_CP-point-situation-normandie.pdf,agences-regionales-sante
 2020-03-19,departement,DEP-76,Seine-Maritime,,,,,4.0,,4.0,33.0,12.0,4.0,3.0,,Santé publique France Data,,,sante-publique-france-data
 2020-03-19,departement,DEP-77,Seine-et-Marne,,,,,0.0,,13.0,48.0,44.0,13.0,15.0,,Santé publique France Data,,,sante-publique-france-data
@@ -2374,7 +2374,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-03-19,departement,DEP-89,Yonne,,,,,2.0,,1.0,5.0,2.0,2.0,1.0,,Santé publique France Data,,,sante-publique-france-data
 2020-03-19,departement,DEP-90,Territoire de Belfort,,,,,3.0,,9.0,39.0,28.0,3.0,0.0,,Santé publique France Data,,,sante-publique-france-data
 2020-03-19,departement,DEP-91,Essonne,,,,,1.0,,22.0,82.0,48.0,13.0,4.0,,Santé publique France Data,,,sante-publique-france-data
-2020-03-19,departement,DEP-92,Hauts-de-Seine,,,,,7.0,,54.0,206.0,95.0,20.0,31.0,,Santé publique France Data,,,sante-publique-france-data
+2020-03-19,departement,DEP-92,Hauts-de-Seine,,,,,7.0,,54.0,206.0,95.0,19.0,31.0,,Santé publique France Data,,,sante-publique-france-data
 2020-03-19,departement,DEP-93,Seine-Saint-Denis,,,,,5.0,,45.0,143.0,104.0,31.0,21.0,,Santé publique France Data,,,sante-publique-france-data
 2020-03-19,departement,DEP-94,Val-de-Marne,,,,,10.0,,47.0,182.0,113.0,17.0,41.0,,Santé publique France Data,,,sante-publique-france-data
 2020-03-19,departement,DEP-95,Val-d'Oise,,,,,5.0,,37.0,150.0,80.0,8.0,32.0,,Santé publique France Data,,,sante-publique-france-data
@@ -2419,7 +2419,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-03-19,region,REG-32,Hauts-de-France,,,,,40.0,,105.0,394.0,212.0,37.0,129.0,,OpenCOVID19-fr,,,opencovid19-fr
 2020-03-19,region,REG-44,Grand Est,,,,,93.0,,300.0,1169.0,,,213.0,,ARS Grand Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_GrandEst_190320.pdf,https://web.archive.org/web/20200320094642/https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_GrandEst_190320.pdf,agences-regionales-sante
 2020-03-19,region,REG-44,Grand Est,2643.0,,,,,,,,,,,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde,https://web.archive.org/web/20200319194637/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde,sante-publique-france
-2020-03-19,region,REG-44,Grand Est,,,,,148.0,,241.0,1109.0,437.0,70.0,187.0,,OpenCOVID19-fr,,,opencovid19-fr
+2020-03-19,region,REG-44,Grand Est,,,,,148.0,,241.0,1109.0,438.0,70.0,187.0,,OpenCOVID19-fr,,,opencovid19-fr
 2020-03-19,region,REG-52,Pays de la Loire,,,,,3.0,,23.0,,,,,,ARS Pays de la Loire,https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-03/2020-03-19-bulletin%20information%20COVID-19_1.pdf,https://web.archive.org/web/20200320083534/https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-03/2020-03-19-bulletin%20information%20COVID-19_1.pdf,agences-regionales-sante
 2020-03-19,region,REG-52,Pays de la Loire,160.0,,,,,,,,,,,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde,https://web.archive.org/web/20200319194637/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde,sante-publique-france
 2020-03-19,region,REG-52,Pays de la Loire,,,,,1.0,,11.0,58.0,40.0,11.0,50.0,,OpenCOVID19-fr,,,opencovid19-fr
@@ -2431,7 +2431,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-03-19,region,REG-75,Nouvelle-Aquitaine,,,,,3.0,,11.0,52.0,39.0,7.0,19.0,,OpenCOVID19-fr,,,opencovid19-fr
 2020-03-19,region,REG-76,Occitanie,472.0,,,,17.0,,62.0,155.0,,,,,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo11_20200319.png,,agences-regionales-sante
 2020-03-19,region,REG-76,Occitanie,444.0,,,,,,,,,,,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde,https://web.archive.org/web/20200319194637/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde,sante-publique-france
-2020-03-19,region,REG-76,Occitanie,,,,,17.0,,55.0,138.0,83.0,29.0,59.0,,OpenCOVID19-fr,,,opencovid19-fr
+2020-03-19,region,REG-76,Occitanie,,,,,17.0,,55.0,138.0,82.0,29.0,59.0,,OpenCOVID19-fr,,,opencovid19-fr
 2020-03-19,region,REG-84,Auvergne-Rhône-Alpes,1014.0,,,,39.0,,,,,,,,ARS Auvergne-Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf,https://web.archive.org/web/20200321170531/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf,agences-regionales-sante
 2020-03-19,region,REG-84,Auvergne-Rhône-Alpes,1014.0,,,,,,,,,,,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde,https://web.archive.org/web/20200319194637/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde,sante-publique-france
 2020-03-19,region,REG-84,Auvergne-Rhône-Alpes,,,,,22.0,,79.0,385.0,337.0,44.0,132.0,,OpenCOVID19-fr,,,opencovid19-fr
@@ -3396,7 +3396,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-03-24,departement,DEP-2B,Haute-Corse,43.0,,,,1.0,,0.0,7.0,,,,,ARS Corse,https://www.corse.ars.sante.fr/informations-utiles-et-point-de-situation,https://web.archive.org/web/20200324070425/https://www.corse.ars.sante.fr/informations-utiles-et-point-de-situation,agences-regionales-sante
 2020-03-24,departement,DEP-2B,Haute-Corse,,,,,0.0,,0.0,7.0,4.0,0.0,33.0,,Santé publique France Data,,,sante-publique-france-data
 2020-03-24,departement,DEP-30,Gard,,,,,5.0,,8.0,14.0,,,14.0,,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo16_20200324.pdf,https://web.archive.org/web/20200324195842/https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo16_20200324.pdf,agences-regionales-sante
-2020-03-24,departement,DEP-30,Gard,,,,,4.0,,8.0,14.0,4.0,5.0,14.0,,Santé publique France Data,,,sante-publique-france-data
+2020-03-24,departement,DEP-30,Gard,,,,,4.0,,8.0,14.0,4.0,4.0,14.0,,Santé publique France Data,,,sante-publique-france-data
 2020-03-24,departement,DEP-31,Haute-Garonne,,,,,3.0,,29.0,89.0,,,36.0,,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo16_20200324.pdf,https://web.archive.org/web/20200324195842/https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo16_20200324.pdf,agences-regionales-sante
 2020-03-24,departement,DEP-31,Haute-Garonne,,,,,3.0,,28.0,89.0,28.0,9.0,38.0,,Santé publique France Data,,,sante-publique-france-data
 2020-03-24,departement,DEP-32,Gers,,,,,0.0,,3.0,8.0,,,0.0,,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo16_20200324.pdf,https://web.archive.org/web/20200324195842/https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo16_20200324.pdf,agences-regionales-sante
@@ -3435,7 +3435,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-03-24,departement,DEP-52,Haute-Marne,,,,,5.0,,6.0,24.0,15.0,1.0,11.0,,Santé publique France Data,,,sante-publique-france-data
 2020-03-24,departement,DEP-53,Mayenne,,,,,1.0,,2.0,14.0,0.0,0.0,3.0,,Santé publique France Data,,,sante-publique-france-data
 2020-03-24,departement,DEP-54,Meurthe-et-Moselle,,,,,24.0,,79.0,161.0,42.0,17.0,25.0,,Santé publique France Data,,,sante-publique-france-data
-2020-03-24,departement,DEP-55,Meuse,,,,,9.0,,7.0,96.0,23.0,2.0,20.0,,Santé publique France Data,,,sante-publique-france-data
+2020-03-24,departement,DEP-55,Meuse,,,,,9.0,,7.0,96.0,23.0,3.0,20.0,,Santé publique France Data,,,sante-publique-france-data
 2020-03-24,departement,DEP-56,Morbihan,185.0,,,,,,,,,,,,ARS Bretagne,https://www.bretagne.ars.sante.fr/system/files/2020-03/CP%20Coronavirus_Bretagne_point%20de%20situation%2017h30_200324.pdf,https://web.archive.org/web/20200324213737/https://www.bretagne.ars.sante.fr/system/files/2020-03/CP%20Coronavirus_Bretagne_point%20de%20situation%2017h30_200324.pdf,agences-regionales-sante
 2020-03-24,departement,DEP-56,Morbihan,,,,,17.0,,14.0,67.0,9.0,1.0,43.0,,Santé publique France Data,,,sante-publique-france-data
 2020-03-24,departement,DEP-57,Moselle,,,,,65.0,,101.0,525.0,173.0,27.0,80.0,,Santé publique France Data,,,sante-publique-france-data
@@ -3530,7 +3530,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-03-24,region,REG-32,Hauts-de-France,,,,,109.0,,208.0,711.0,193.0,36.0,250.0,,OpenCOVID19-fr,,,opencovid19-fr
 2020-03-24,region,REG-44,Grand Est,,,,,407.0,,595.0,2722.0,,,625.0,,ARS Grand Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/CP_Coronavirus_GrandEst_240320.pdf,https://web.archive.org/web/20200325073850/https://www.grand-est.ars.sante.fr/system/files/2020-03/CP_Coronavirus_GrandEst_240320.pdf,agences-regionales-sante
 2020-03-24,region,REG-44,Grand Est,4922.0,,,,,,,,,,,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde,https://web.archive.org/web/20200324193012/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde,sante-publique-france
-2020-03-24,region,REG-44,Grand Est,,,,,407.0,,504.0,2402.0,646.0,103.0,619.0,,OpenCOVID19-fr,,,opencovid19-fr
+2020-03-24,region,REG-44,Grand Est,,,,,407.0,,504.0,2402.0,646.0,104.0,619.0,,OpenCOVID19-fr,,,opencovid19-fr
 2020-03-24,region,REG-52,Pays de la Loire,343.0,,,,14.0,,58.0,,,,95.0,,ARS Pays de la Loire,https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-03/2020-03-24-bulletin%20information%20COVID-19_1.pdf,https://web.archive.org/web/20200324215024/https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-03/2020-03-24-bulletin%20information%20COVID-19_1.pdf,agences-regionales-sante
 2020-03-24,region,REG-52,Pays de la Loire,343.0,,,,,,,,,,,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde,https://web.archive.org/web/20200324193012/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde,sante-publique-france
 2020-03-24,region,REG-52,Pays de la Loire,,,,,13.0,,43.0,187.0,67.0,12.0,93.0,,OpenCOVID19-fr,,,opencovid19-fr
@@ -3542,7 +3542,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-03-24,region,REG-75,Nouvelle-Aquitaine,,,,,16.0,,69.0,263.0,98.0,31.0,78.0,,OpenCOVID19-fr,,,opencovid19-fr
 2020-03-24,region,REG-76,Occitanie,900.0,,,,40.0,,123.0,380.0,,,161.0,,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo16_20200324.pdf,https://web.archive.org/web/20200324195842/https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo16_20200324.pdf,agences-regionales-sante
 2020-03-24,region,REG-76,Occitanie,900.0,,,,,,,,,,,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde,https://web.archive.org/web/20200324193012/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde,sante-publique-france
-2020-03-24,region,REG-76,Occitanie,,,,,39.0,,125.0,382.0,95.0,33.0,149.0,,OpenCOVID19-fr,,,opencovid19-fr
+2020-03-24,region,REG-76,Occitanie,,,,,39.0,,125.0,382.0,95.0,32.0,149.0,,OpenCOVID19-fr,,,opencovid19-fr
 2020-03-24,region,REG-84,Auvergne-Rhône-Alpes,1857.0,,,,86.0,,193.0,1000.0,,,324.0,,ARS Auvergne-Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/covid-19-en-auvergne-rhone-alpes-point-de-situation-mardi-24-mars,https://web.archive.org/web/20200324221243/https://www.auvergne-rhone-alpes.ars.sante.fr/covid-19-en-auvergne-rhone-alpes-point-de-situation-mardi-24-mars,agences-regionales-sante
 2020-03-24,region,REG-84,Auvergne-Rhône-Alpes,1857.0,,,,,,,,,,,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde,https://web.archive.org/web/20200324193012/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde,sante-publique-france
 2020-03-24,region,REG-84,Auvergne-Rhône-Alpes,,,,,86.0,,190.0,981.0,228.0,47.0,314.0,,OpenCOVID19-fr,,,opencovid19-fr
@@ -3702,10 +3702,10 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-03-25,departement,DEP-89,Yonne,,,,,2.0,,11.0,32.0,13.0,2.0,1.0,,Santé publique France Data,,,sante-publique-france-data
 2020-03-25,departement,DEP-90,Territoire de Belfort,,,,,30.0,,27.0,138.0,35.0,2.0,42.0,,Santé publique France Data,,,sante-publique-france-data
 2020-03-25,departement,DEP-91,Essonne,,,,,12.0,,79.0,360.0,100.0,16.0,58.0,,Santé publique France Data,,,sante-publique-france-data
-2020-03-25,departement,DEP-92,Hauts-de-Seine,,,,,47.0,,187.0,740.0,180.0,37.0,192.0,,Santé publique France Data,,,sante-publique-france-data
+2020-03-25,departement,DEP-92,Hauts-de-Seine,,,,,47.0,,187.0,740.0,179.0,37.0,192.0,,Santé publique France Data,,,sante-publique-france-data
 2020-03-25,departement,DEP-93,Seine-Saint-Denis,,,,,47.0,,101.0,463.0,84.0,9.0,80.0,,Santé publique France Data,,,sante-publique-france-data
 2020-03-25,departement,DEP-94,Val-de-Marne,,,,,34.0,,145.0,550.0,144.0,36.0,153.0,,Santé publique France Data,,,sante-publique-france-data
-2020-03-25,departement,DEP-95,Val-d'Oise,,,,,53.0,,109.0,441.0,102.0,16.0,155.0,,Santé publique France Data,,,sante-publique-france-data
+2020-03-25,departement,DEP-95,Val-d'Oise,,,,,53.0,,109.0,441.0,103.0,16.0,155.0,,Santé publique France Data,,,sante-publique-france-data
 2020-03-25,departement,DEP-971,Guadeloupe,76.0,,,,1.0,,7.0,19.0,,,,,ARS Guadeloupe,https://www.guadeloupe.ars.sante.fr/system/files/2020-03/25032020%20CP%20point%20de%20situation.pdf.pdf,https://web.archive.org/web/20200325175956/https://www.guadeloupe.ars.sante.fr/system/files/2020-03/25032020%20CP%20point%20de%20situation.pdf.pdf,agences-regionales-sante
 2020-03-25,departement,DEP-971,Guadeloupe,,,,,0.0,,6.0,6.0,0.0,0.0,0.0,,Santé publique France Data,,,sante-publique-france-data
 2020-03-25,departement,DEP-972,Martinique,,,,,1.0,,7.0,22.0,11.0,2.0,12.0,,Santé publique France Data,,,sante-publique-france-data
@@ -4465,11 +4465,11 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-03-29,departement,DEP-88,Vosges,,,,,72.0,,27.0,179.0,38.0,2.0,83.0,,Santé publique France Data,,,sante-publique-france-data
 2020-03-29,departement,DEP-89,Yonne,,,,,4.0,,13.0,40.0,7.0,2.0,6.0,,Santé publique France Data,,,sante-publique-france-data
 2020-03-29,departement,DEP-90,Territoire de Belfort,,,,,51.0,,40.0,171.0,16.0,3.0,66.0,,Santé publique France Data,,,sante-publique-france-data
-2020-03-29,departement,DEP-91,Essonne,,,,,33.0,,128.0,528.0,44.0,9.0,126.0,,Santé publique France Data,,,sante-publique-france-data
-2020-03-29,departement,DEP-92,Hauts-de-Seine,,,,,110.0,,276.0,1169.0,126.0,35.0,342.0,,Santé publique France Data,,,sante-publique-france-data
-2020-03-29,departement,DEP-93,Seine-Saint-Denis,,,,,113.0,,148.0,758.0,113.0,4.0,200.0,,Santé publique France Data,,,sante-publique-france-data
+2020-03-29,departement,DEP-91,Essonne,,,,,33.0,,128.0,528.0,43.0,9.0,126.0,,Santé publique France Data,,,sante-publique-france-data
+2020-03-29,departement,DEP-92,Hauts-de-Seine,,,,,110.0,,276.0,1169.0,126.0,34.0,342.0,,Santé publique France Data,,,sante-publique-france-data
+2020-03-29,departement,DEP-93,Seine-Saint-Denis,,,,,113.0,,148.0,758.0,114.0,4.0,200.0,,Santé publique France Data,,,sante-publique-france-data
 2020-03-29,departement,DEP-94,Val-de-Marne,,,,,99.0,,177.0,961.0,120.0,12.0,273.0,,Santé publique France Data,,,sante-publique-france-data
-2020-03-29,departement,DEP-95,Val-d'Oise,,,,,113.0,,131.0,584.0,115.0,13.0,327.0,,Santé publique France Data,,,sante-publique-france-data
+2020-03-29,departement,DEP-95,Val-d'Oise,,,,,113.0,,131.0,584.0,115.0,14.0,327.0,,Santé publique France Data,,,sante-publique-france-data
 2020-03-29,departement,DEP-971,Guadeloupe,106.0,,,,4.0,,10.0,26.0,,,20.0,,ARS Guadeloupe,https://www.guadeloupe.ars.sante.fr/system/files/2020-03/29032020%20Point%20de%20situation%20ARS.pdf,https://web.archive.org/web/20200329222323/https://www.guadeloupe.ars.sante.fr/system/files/2020-03/29032020%20Point%20de%20situation%20ARS.pdf,agences-regionales-sante
 2020-03-29,departement,DEP-971,Guadeloupe,,,,,2.0,,12.0,44.0,1.0,0.0,9.0,,Santé publique France Data,,,sante-publique-france-data
 2020-03-29,departement,DEP-972,Martinique,,,,,3.0,,15.0,57.0,9.0,2.0,17.0,,Santé publique France Data,,,sante-publique-france-data
@@ -4624,9 +4624,9 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-03-30,departement,DEP-88,Vosges,,,,,81.0,,28.0,196.0,39.0,7.0,92.0,,Santé publique France Data,,,sante-publique-france-data
 2020-03-30,departement,DEP-89,Yonne,,,,,4.0,,15.0,52.0,14.0,2.0,8.0,,Santé publique France Data,,,sante-publique-france-data
 2020-03-30,departement,DEP-90,Territoire de Belfort,,,,,61.0,,40.0,177.0,21.0,2.0,73.0,,Santé publique France Data,,,sante-publique-france-data
-2020-03-30,departement,DEP-91,Essonne,,,,,43.0,,141.0,586.0,83.0,20.0,133.0,,Santé publique France Data,,,sante-publique-france-data
+2020-03-30,departement,DEP-91,Essonne,,,,,43.0,,141.0,586.0,83.0,19.0,133.0,,Santé publique France Data,,,sante-publique-france-data
 2020-03-30,departement,DEP-92,Hauts-de-Seine,,,,,127.0,,293.0,1286.0,176.0,26.0,378.0,,Santé publique France Data,,,sante-publique-france-data
-2020-03-30,departement,DEP-93,Seine-Saint-Denis,,,,,124.0,,163.0,863.0,136.0,18.0,222.0,,Santé publique France Data,,,sante-publique-france-data
+2020-03-30,departement,DEP-93,Seine-Saint-Denis,,,,,124.0,,163.0,863.0,136.0,19.0,222.0,,Santé publique France Data,,,sante-publique-france-data
 2020-03-30,departement,DEP-94,Val-de-Marne,,,,,102.0,,186.0,1030.0,112.0,13.0,299.0,,Santé publique France Data,,,sante-publique-france-data
 2020-03-30,departement,DEP-95,Val-d'Oise,,,,,127.0,,137.0,645.0,118.0,14.0,363.0,,Santé publique France Data,,,sante-publique-france-data
 2020-03-30,departement,DEP-971,Guadeloupe,,,,,4.0,,11.0,35.0,3.0,4.0,18.0,,Santé publique France Data,,,sante-publique-france-data
@@ -5103,7 +5103,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-04-03,departement,DEP-41,Loir-et-Cher,,,,,10.0,,13.0,67.0,11.0,0.0,32.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-03,departement,DEP-42,Loire,,,,,69.0,,97.0,449.0,57.0,5.0,153.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-03,departement,DEP-43,Haute-Loire,,,,,3.0,,5.0,20.0,6.0,0.0,23.0,,Santé publique France Data,,,sante-publique-france-data
-2020-04-03,departement,DEP-44,Loire-Atlantique,,,,,43.0,,60.0,216.0,30.0,6.0,109.0,,Santé publique France Data,,,sante-publique-france-data
+2020-04-03,departement,DEP-44,Loire-Atlantique,,,,,43.0,,60.0,216.0,30.0,5.0,109.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-03,departement,DEP-45,Loiret,,,,,20.0,,73.0,218.0,38.0,14.0,65.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-03,departement,DEP-46,Lot,,,,,0.0,,4.0,19.0,9.0,0.0,17.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-03,departement,DEP-47,Lot-et-Garonne,,,,,3.0,,7.0,29.0,2.0,0.0,11.0,,Santé publique France Data,,,sante-publique-france-data
@@ -5153,7 +5153,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-04-03,departement,DEP-91,Essonne,,,,,92.0,,185.0,831.0,132.0,20.0,227.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-03,departement,DEP-92,Hauts-de-Seine,,,,,237.0,,381.0,1848.0,232.0,48.0,703.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-03,departement,DEP-93,Seine-Saint-Denis,,,,,240.0,,224.0,1267.0,165.0,23.0,452.0,,Santé publique France Data,,,sante-publique-france-data
-2020-04-03,departement,DEP-94,Val-de-Marne,,,,,248.0,,283.0,1613.0,273.0,45.0,571.0,,Santé publique France Data,,,sante-publique-france-data
+2020-04-03,departement,DEP-94,Val-de-Marne,,,,,248.0,,283.0,1613.0,273.0,46.0,571.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-03,departement,DEP-95,Val-d'Oise,,,,,200.0,,151.0,816.0,134.0,16.0,585.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-03,departement,DEP-971,Guadeloupe,,,,,8.0,,17.0,36.0,6.0,1.0,34.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-03,departement,DEP-972,Martinique,,,,,3.0,,19.0,53.0,0.0,0.0,34.0,,Santé publique France Data,,,sante-publique-france-data
@@ -5169,13 +5169,13 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-04-03,region,REG-04,La Réunion,,,,,0.0,,2.0,53.0,4.0,0.0,29.0,,OpenCOVID19-fr,,,opencovid19-fr
 2020-04-03,region,REG-06,Mayotte,128.0,,,,2.0,,3.0,14.0,,,13.0,800.0,ARS Mayotte,https://www.mayotte.ars.sante.fr/system/files/2020-04/CP%203%20avril%20COVID-19.pdf,https://web.archive.org/web/20200404134157/https://www.mayotte.ars.sante.fr/system/files/2020-04/CP%203%20avril%20COVID-19.pdf,agences-regionales-sante
 2020-04-03,region,REG-06,Mayotte,,,,,2.0,,3.0,18.0,9.0,0.0,2.0,,OpenCOVID19-fr,,,opencovid19-fr
-2020-04-03,region,REG-11,Île-de-France,,,,,1791.0,,2375.0,10824.0,1449.0,256.0,4417.0,,OpenCOVID19-fr,,,opencovid19-fr
+2020-04-03,region,REG-11,Île-de-France,,,,,1791.0,,2375.0,10824.0,1449.0,257.0,4417.0,,OpenCOVID19-fr,,,opencovid19-fr
 2020-04-03,region,REG-24,Centre-Val de Loire,,,,,98.0,,182.0,674.0,99.0,24.0,225.0,,OpenCOVID19-fr,,,opencovid19-fr
 2020-04-03,region,REG-27,Bourgogne-Franche-Comté,,,,,303.0,,265.0,1028.0,134.0,28.0,835.0,,OpenCOVID19-fr,,,opencovid19-fr
 2020-04-03,region,REG-28,Normandie,,,,,93.0,,197.0,650.0,65.0,17.0,258.0,,OpenCOVID19-fr,,,opencovid19-fr
 2020-04-03,region,REG-32,Hauts-de-France,,,,,438.0,,547.0,1967.0,352.0,54.0,984.0,,OpenCOVID19-fr,,,opencovid19-fr
 2020-04-03,region,REG-44,Grand Est,,,,,1311.0,,971.0,4712.0,586.0,104.0,2543.0,,OpenCOVID19-fr,,,opencovid19-fr
-2020-04-03,region,REG-52,Pays de la Loire,,,,,109.0,,169.0,608.0,79.0,13.0,387.0,,OpenCOVID19-fr,,,opencovid19-fr
+2020-04-03,region,REG-52,Pays de la Loire,,,,,109.0,,169.0,608.0,79.0,12.0,387.0,,OpenCOVID19-fr,,,opencovid19-fr
 2020-04-03,region,REG-53,Bretagne,,,,,69.0,,114.0,411.0,45.0,10.0,245.0,,OpenCOVID19-fr,,,opencovid19-fr
 2020-04-03,region,REG-75,Nouvelle-Aquitaine,,,,,100.0,,225.0,735.0,85.0,12.0,521.0,,OpenCOVID19-fr,,,opencovid19-fr
 2020-04-03,region,REG-76,Occitanie,,,,,131.0,,322.0,1007.0,109.0,19.0,657.0,,OpenCOVID19-fr,,,opencovid19-fr
@@ -5852,7 +5852,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-04-09,departement,DEP-39,Jura,,,,,23.0,,13.0,105.0,18.0,2.0,58.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-09,departement,DEP-40,Landes,,,,,8.0,,14.0,30.0,7.0,0.0,29.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-09,departement,DEP-41,Loir-et-Cher,,,,,16.0,,17.0,103.0,13.0,5.0,48.0,,Santé publique France Data,,,sante-publique-france-data
-2020-04-09,departement,DEP-42,Loire,,,,,95.0,,95.0,472.0,31.0,2.0,266.0,,Santé publique France Data,,,sante-publique-france-data
+2020-04-09,departement,DEP-42,Loire,,,,,95.0,,95.0,472.0,30.0,2.0,266.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-09,departement,DEP-43,Haute-Loire,,,,,4.0,,7.0,24.0,6.0,0.0,42.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-09,departement,DEP-44,Loire-Atlantique,,,,,57.0,,66.0,274.0,36.0,3.0,197.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-09,departement,DEP-45,Loiret,,,,,32.0,,76.0,256.0,28.0,5.0,160.0,,Santé publique France Data,,,sante-publique-france-data
@@ -5879,7 +5879,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-04-09,departement,DEP-66,Pyrénées-Orientales,,,,,19.0,,32.0,87.0,3.0,1.0,169.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-09,departement,DEP-67,Bas-Rhin,,,,,332.0,,268.0,1090.0,107.0,7.0,855.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-09,departement,DEP-68,Haut-Rhin,,,,,561.0,,143.0,1012.0,68.0,9.0,1170.0,,Santé publique France Data,,,sante-publique-france-data
-2020-04-09,departement,DEP-69,Rhône,,,,,282.0,,263.0,1197.0,135.0,12.0,896.0,,Santé publique France Data,,,sante-publique-france-data
+2020-04-09,departement,DEP-69,Rhône,,,,,282.0,,263.0,1197.0,136.0,12.0,896.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-09,departement,DEP-70,Haute-Saône,,,,,45.0,,18.0,91.0,10.0,0.0,91.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-09,departement,DEP-71,Saône-et-Loire,,,,,81.0,,35.0,188.0,23.0,3.0,222.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-09,departement,DEP-72,Sarthe,,,,,23.0,,20.0,130.0,26.0,0.0,115.0,,Santé publique France Data,,,sante-publique-france-data
@@ -6215,7 +6215,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-04-12,departement,DEP-39,Jura,,,,,27.0,,15.0,117.0,6.0,1.0,65.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-12,departement,DEP-40,Landes,,,,,10.0,,12.0,24.0,0.0,0.0,31.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-12,departement,DEP-41,Loir-et-Cher,,,,,21.0,,15.0,96.0,3.0,0.0,61.0,,Santé publique France Data,,,sante-publique-france-data
-2020-04-12,departement,DEP-42,Loire,,,,,109.0,,101.0,493.0,43.0,7.0,331.0,,Santé publique France Data,,,sante-publique-france-data
+2020-04-12,departement,DEP-42,Loire,,,,,109.0,,101.0,493.0,43.0,6.0,331.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-12,departement,DEP-43,Haute-Loire,,,,,5.0,,7.0,32.0,2.0,0.0,45.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-12,departement,DEP-44,Loire-Atlantique,,,,,64.0,,65.0,295.0,18.0,3.0,233.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-12,departement,DEP-45,Loiret,,,,,40.0,,72.0,284.0,18.0,1.0,206.0,,Santé publique France Data,,,sante-publique-france-data
@@ -6242,7 +6242,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-04-12,departement,DEP-66,Pyrénées-Orientales,,,,,22.0,,27.0,79.0,2.0,0.0,185.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-12,departement,DEP-67,Bas-Rhin,,,,,352.0,,261.0,1102.0,40.0,4.0,993.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-12,departement,DEP-68,Haut-Rhin,,,,,588.0,,142.0,1027.0,29.0,8.0,1242.0,,Santé publique France Data,,,sante-publique-france-data
-2020-04-12,departement,DEP-69,Rhône,,,,,310.0,,250.0,1241.0,39.0,4.0,1057.0,,Santé publique France Data,,,sante-publique-france-data
+2020-04-12,departement,DEP-69,Rhône,,,,,310.0,,250.0,1241.0,39.0,5.0,1057.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-12,departement,DEP-70,Haute-Saône,,,,,49.0,,17.0,85.0,1.0,0.0,102.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-12,departement,DEP-71,Saône-et-Loire,,,,,92.0,,34.0,175.0,6.0,3.0,262.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-12,departement,DEP-72,Sarthe,,,,,27.0,,23.0,151.0,9.0,1.0,121.0,,Santé publique France Data,,,sante-publique-france-data
@@ -6457,7 +6457,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-04-14,departement,DEP-39,Jura,,,,,30.0,,18.0,131.0,9.0,1.0,65.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-14,departement,DEP-40,Landes,,,,,10.0,,12.0,27.0,4.0,1.0,32.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-14,departement,DEP-41,Loir-et-Cher,,,,,25.0,,15.0,104.0,12.0,1.0,64.0,,Santé publique France Data,,,sante-publique-france-data
-2020-04-14,departement,DEP-42,Loire,,,,,116.0,,99.0,489.0,23.0,3.0,352.0,,Santé publique France Data,,,sante-publique-france-data
+2020-04-14,departement,DEP-42,Loire,,,,,116.0,,99.0,489.0,22.0,2.0,352.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-14,departement,DEP-43,Haute-Loire,,,,,6.0,,4.0,29.0,2.0,0.0,50.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-14,departement,DEP-44,Loire-Atlantique,,,,,77.0,,63.0,296.0,10.0,0.0,244.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-14,departement,DEP-45,Loiret,,,,,44.0,,77.0,297.0,16.0,5.0,226.0,,Santé publique France Data,,,sante-publique-france-data
@@ -6484,7 +6484,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-04-14,departement,DEP-66,Pyrénées-Orientales,,,,,22.0,,21.0,65.0,2.0,0.0,205.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-14,departement,DEP-67,Bas-Rhin,,,,,375.0,,250.0,1122.0,59.0,6.0,1024.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-14,departement,DEP-68,Haut-Rhin,,,,,596.0,,140.0,1041.0,72.0,10.0,1298.0,,Santé publique France Data,,,sante-publique-france-data
-2020-04-14,departement,DEP-69,Rhône,,,,,336.0,,251.0,1247.0,63.0,6.0,1097.0,,Santé publique France Data,,,sante-publique-france-data
+2020-04-14,departement,DEP-69,Rhône,,,,,336.0,,251.0,1247.0,64.0,7.0,1097.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-14,departement,DEP-70,Haute-Saône,,,,,51.0,,18.0,95.0,12.0,2.0,104.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-14,departement,DEP-71,Saône-et-Loire,,,,,97.0,,34.0,180.0,14.0,0.0,268.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-14,departement,DEP-72,Sarthe,,,,,33.0,,21.0,142.0,11.0,2.0,136.0,,Santé publique France Data,,,sante-publique-france-data
@@ -6492,7 +6492,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-04-14,departement,DEP-74,Haute-Savoie,,,,,88.0,,70.0,295.0,14.0,0.0,409.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-14,departement,DEP-75,Paris,,,,,1003.0,,790.0,3281.0,128.0,33.0,2336.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-14,departement,DEP-76,Seine-Maritime,,,,,103.0,,94.0,316.0,14.0,4.0,312.0,,Santé publique France Data,,,sante-publique-france-data
-2020-04-14,departement,DEP-77,Seine-et-Marne,,,,,269.0,,209.0,830.0,80.0,14.0,898.0,,Santé publique France Data,,,sante-publique-france-data
+2020-04-14,departement,DEP-77,Seine-et-Marne,,,,,269.0,,209.0,830.0,79.0,13.0,898.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-14,departement,DEP-78,Yvelines,,,,,292.0,,183.0,1054.0,41.0,4.0,814.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-14,departement,DEP-79,Deux-Sèvres,,,,,10.0,,7.0,37.0,2.0,0.0,24.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-14,departement,DEP-80,Somme,,,,,129.0,,68.0,368.0,23.0,4.0,301.0,,Santé publique France Data,,,sante-publique-france-data
@@ -6508,7 +6508,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-04-14,departement,DEP-90,Territoire de Belfort,,,,,116.0,,36.0,226.0,3.0,0.0,248.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-14,departement,DEP-91,Essonne,,,,,247.0,,231.0,1217.0,57.0,12.0,627.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-14,departement,DEP-92,Hauts-de-Seine,,,,,563.0,,423.0,2006.0,102.0,16.0,1646.0,,Santé publique France Data,,,sante-publique-france-data
-2020-04-14,departement,DEP-93,Seine-Saint-Denis,,,,,560.0,,240.0,1613.0,126.0,14.0,1186.0,,Santé publique France Data,,,sante-publique-france-data
+2020-04-14,departement,DEP-93,Seine-Saint-Denis,,,,,560.0,,240.0,1613.0,127.0,15.0,1186.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-14,departement,DEP-94,Val-de-Marne,,,,,606.0,,343.0,2247.0,84.0,36.0,1185.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-14,departement,DEP-95,Val-d'Oise,,,,,397.0,,180.0,961.0,79.0,6.0,1098.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-14,departement,DEP-971,Guadeloupe,,,,,10.0,,18.0,41.0,0.0,0.0,51.0,,Santé publique France Data,,,sante-publique-france-data
@@ -6734,7 +6734,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-04-16,departement,DEP-74,Haute-Savoie,,,,,99.0,,61.0,274.0,17.0,3.0,458.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-16,departement,DEP-75,Paris,,,,,1090.0,,727.0,3103.0,154.0,23.0,2640.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-16,departement,DEP-76,Seine-Maritime,,,,,109.0,,89.0,299.0,17.0,3.0,346.0,,Santé publique France Data,,,sante-publique-france-data
-2020-04-16,departement,DEP-77,Seine-et-Marne,,,,,306.0,,181.0,841.0,116.0,11.0,1048.0,,Santé publique France Data,,,sante-publique-france-data
+2020-04-16,departement,DEP-77,Seine-et-Marne,,,,,306.0,,181.0,841.0,116.0,10.0,1048.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-16,departement,DEP-78,Yvelines,,,,,317.0,,163.0,987.0,56.0,3.0,949.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-16,departement,DEP-79,Deux-Sèvres,,,,,12.0,,7.0,33.0,2.0,0.0,29.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-16,departement,DEP-80,Somme,,,,,136.0,,60.0,358.0,16.0,1.0,332.0,,Santé publique France Data,,,sante-publique-france-data
@@ -6750,7 +6750,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-04-16,departement,DEP-90,Territoire de Belfort,,,,,124.0,,32.0,195.0,10.0,2.0,282.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-16,departement,DEP-91,Essonne,,,,,273.0,,200.0,1171.0,67.0,12.0,747.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-16,departement,DEP-92,Hauts-de-Seine,,,,,620.0,,406.0,1977.0,121.0,22.0,1856.0,,Santé publique France Data,,,sante-publique-france-data
-2020-04-16,departement,DEP-93,Seine-Saint-Denis,,,,,609.0,,242.0,1569.0,123.0,25.0,1384.0,,Santé publique France Data,,,sante-publique-france-data
+2020-04-16,departement,DEP-93,Seine-Saint-Denis,,,,,609.0,,242.0,1569.0,123.0,26.0,1384.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-16,departement,DEP-94,Val-de-Marne,,,,,681.0,,327.0,2249.0,124.0,25.0,1407.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-16,departement,DEP-95,Val-d'Oise,,,,,423.0,,173.0,937.0,101.0,5.0,1248.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-16,departement,DEP-971,Guadeloupe,,,,,10.0,,17.0,34.0,1.0,0.0,59.0,,Santé publique France Data,,,sante-publique-france-data
@@ -6974,7 +6974,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-04-18,departement,DEP-72,Sarthe,,,,,36.0,,17.0,141.0,9.0,3.0,180.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-18,departement,DEP-73,Savoie,,,,,32.0,,18.0,88.0,7.0,1.0,254.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-18,departement,DEP-74,Haute-Savoie,,,,,105.0,,54.0,278.0,28.0,2.0,492.0,,Santé publique France Data,,,sante-publique-france-data
-2020-04-18,departement,DEP-75,Paris,,,,,1160.0,,685.0,3013.0,130.0,28.0,2927.0,,Santé publique France Data,,,sante-publique-france-data
+2020-04-18,departement,DEP-75,Paris,,,,,1160.0,,685.0,3013.0,131.0,28.0,2927.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-18,departement,DEP-76,Seine-Maritime,,,,,115.0,,78.0,283.0,28.0,2.0,392.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-18,departement,DEP-77,Seine-et-Marne,,,,,351.0,,175.0,768.0,73.0,6.0,1248.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-18,departement,DEP-78,Yvelines,,,,,334.0,,140.0,882.0,32.0,5.0,1104.0,,Santé publique France Data,,,sante-publique-france-data
@@ -6992,7 +6992,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-04-18,departement,DEP-90,Territoire de Belfort,,,,,130.0,,29.0,181.0,7.0,1.0,306.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-18,departement,DEP-91,Essonne,,,,,305.0,,182.0,1176.0,36.0,5.0,824.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-18,departement,DEP-92,Hauts-de-Seine,,,,,662.0,,390.0,1956.0,96.0,12.0,2004.0,,Santé publique France Data,,,sante-publique-france-data
-2020-04-18,departement,DEP-93,Seine-Saint-Denis,,,,,680.0,,222.0,1571.0,95.0,14.0,1544.0,,Santé publique France Data,,,sante-publique-france-data
+2020-04-18,departement,DEP-93,Seine-Saint-Denis,,,,,680.0,,222.0,1571.0,94.0,14.0,1544.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-18,departement,DEP-94,Val-de-Marne,,,,,722.0,,336.0,2217.0,80.0,18.0,1554.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-18,departement,DEP-95,Val-d'Oise,,,,,450.0,,163.0,907.0,50.0,6.0,1350.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-18,departement,DEP-971,Guadeloupe,,,,,11.0,,17.0,33.0,0.0,0.0,61.0,,Santé publique France Data,,,sante-publique-france-data
@@ -7337,7 +7337,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-04-21,departement,DEP-72,Sarthe,,,,,42.0,,13.0,134.0,5.0,0.0,179.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-21,departement,DEP-73,Savoie,,,,,38.0,,13.0,86.0,12.0,1.0,268.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-21,departement,DEP-74,Haute-Savoie,,,,,121.0,,48.0,262.0,16.0,4.0,524.0,,Santé publique France Data,,,sante-publique-france-data
-2020-04-21,departement,DEP-75,Paris,,,,,1273.0,,614.0,2856.0,130.0,29.0,3208.0,,Santé publique France Data,,,sante-publique-france-data
+2020-04-21,departement,DEP-75,Paris,,,,,1273.0,,614.0,2856.0,131.0,29.0,3208.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-21,departement,DEP-76,Seine-Maritime,,,,,125.0,,69.0,266.0,14.0,1.0,431.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-21,departement,DEP-77,Seine-et-Marne,,,,,397.0,,151.0,727.0,58.0,4.0,1374.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-21,departement,DEP-78,Yvelines,,,,,371.0,,136.0,890.0,39.0,9.0,1175.0,,Santé publique France Data,,,sante-publique-france-data
@@ -7354,7 +7354,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-04-21,departement,DEP-89,Yonne,,,,,41.0,,20.0,104.0,15.0,0.0,121.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-21,departement,DEP-90,Territoire de Belfort,,,,,134.0,,28.0,175.0,5.0,1.0,322.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-21,departement,DEP-91,Essonne,,,,,341.0,,181.0,1185.0,57.0,6.0,893.0,,Santé publique France Data,,,sante-publique-france-data
-2020-04-21,departement,DEP-92,Hauts-de-Seine,,,,,716.0,,365.0,1923.0,87.0,13.0,2223.0,,Santé publique France Data,,,sante-publique-france-data
+2020-04-21,departement,DEP-92,Hauts-de-Seine,,,,,716.0,,365.0,1923.0,86.0,13.0,2223.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-21,departement,DEP-93,Seine-Saint-Denis,,,,,717.0,,213.0,1560.0,82.0,8.0,1714.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-21,departement,DEP-94,Val-de-Marne,,,,,794.0,,323.0,2214.0,129.0,10.0,1691.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-21,departement,DEP-95,Val-d'Oise,,,,,485.0,,143.0,914.0,46.0,4.0,1431.0,,Santé publique France Data,,,sante-publique-france-data
@@ -7582,7 +7582,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-04-23,departement,DEP-75,Paris,,,,,1310.0,,563.0,2705.0,81.0,14.0,3436.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-23,departement,DEP-76,Seine-Maritime,,,,,130.0,,66.0,248.0,11.0,1.0,464.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-23,departement,DEP-77,Seine-et-Marne,,,,,426.0,,149.0,693.0,35.0,5.0,1471.0,,Santé publique France Data,,,sante-publique-france-data
-2020-04-23,departement,DEP-78,Yvelines,,,,,386.0,,125.0,857.0,20.0,5.0,1247.0,,Santé publique France Data,,,sante-publique-france-data
+2020-04-23,departement,DEP-78,Yvelines,,,,,386.0,,125.0,857.0,19.0,5.0,1247.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-23,departement,DEP-79,Deux-Sèvres,,,,,14.0,,3.0,27.0,0.0,1.0,37.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-23,departement,DEP-80,Somme,,,,,161.0,,47.0,324.0,16.0,2.0,434.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-23,departement,DEP-81,Tarn,,,,,17.0,,9.0,39.0,0.0,0.0,64.0,,Santé publique France Data,,,sante-publique-france-data
@@ -7596,7 +7596,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-04-23,departement,DEP-89,Yonne,,,,,49.0,,27.0,117.0,9.0,2.0,139.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-23,departement,DEP-90,Territoire de Belfort,,,,,141.0,,23.0,164.0,2.0,0.0,332.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-23,departement,DEP-91,Essonne,,,,,363.0,,175.0,1150.0,45.0,13.0,981.0,,Santé publique France Data,,,sante-publique-france-data
-2020-04-23,departement,DEP-92,Hauts-de-Seine,,,,,758.0,,353.0,1936.0,102.0,13.0,2342.0,,Santé publique France Data,,,sante-publique-france-data
+2020-04-23,departement,DEP-92,Hauts-de-Seine,,,,,758.0,,353.0,1936.0,103.0,13.0,2342.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-23,departement,DEP-93,Seine-Saint-Denis,,,,,752.0,,214.0,1578.0,92.0,2.0,1858.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-23,departement,DEP-94,Val-de-Marne,,,,,827.0,,295.0,2071.0,95.0,14.0,1961.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-23,departement,DEP-95,Val-d'Oise,,,,,508.0,,132.0,960.0,55.0,3.0,1499.0,,Santé publique France Data,,,sante-publique-france-data
@@ -7703,7 +7703,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-04-24,departement,DEP-75,Paris,,,,,1327.0,,557.0,2624.0,64.0,23.0,3537.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-24,departement,DEP-76,Seine-Maritime,,,,,133.0,,59.0,241.0,30.0,0.0,491.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-24,departement,DEP-77,Seine-et-Marne,,,,,437.0,,147.0,695.0,62.0,6.0,1523.0,,Santé publique France Data,,,sante-publique-france-data
-2020-04-24,departement,DEP-78,Yvelines,,,,,398.0,,125.0,848.0,52.0,5.0,1289.0,,Santé publique France Data,,,sante-publique-france-data
+2020-04-24,departement,DEP-78,Yvelines,,,,,398.0,,125.0,848.0,52.0,4.0,1289.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-24,departement,DEP-79,Deux-Sèvres,,,,,14.0,,3.0,26.0,0.0,0.0,38.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-24,departement,DEP-80,Somme,,,,,164.0,,47.0,303.0,10.0,2.0,458.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-24,departement,DEP-81,Tarn,,,,,18.0,,8.0,37.0,2.0,0.0,65.0,,Santé publique France Data,,,sante-publique-france-data
@@ -7717,7 +7717,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-04-24,departement,DEP-89,Yonne,,,,,50.0,,23.0,109.0,4.0,0.0,147.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-24,departement,DEP-90,Territoire de Belfort,,,,,141.0,,20.0,156.0,6.0,0.0,337.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-24,departement,DEP-91,Essonne,,,,,375.0,,167.0,1174.0,78.0,5.0,1023.0,,Santé publique France Data,,,sante-publique-france-data
-2020-04-24,departement,DEP-92,Hauts-de-Seine,,,,,776.0,,347.0,1933.0,93.0,11.0,2416.0,,Santé publique France Data,,,sante-publique-france-data
+2020-04-24,departement,DEP-92,Hauts-de-Seine,,,,,776.0,,347.0,1933.0,93.0,12.0,2416.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-24,departement,DEP-93,Seine-Saint-Denis,,,,,768.0,,200.0,1551.0,61.0,4.0,1927.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-24,departement,DEP-94,Val-de-Marne,,,,,848.0,,283.0,1982.0,72.0,4.0,2092.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-24,departement,DEP-95,Val-d'Oise,,,,,523.0,,121.0,951.0,43.0,4.0,1538.0,,Santé publique France Data,,,sante-publique-france-data
@@ -8147,7 +8147,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-04-28,departement,DEP-35,Ille-et-Vilaine,,,,,69.0,,17.0,150.0,6.0,0.0,269.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-28,departement,DEP-36,Indre,,,,,63.0,,9.0,116.0,2.0,1.0,56.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-28,departement,DEP-37,Indre-et-Loire,,,,,57.0,,36.0,159.0,13.0,0.0,192.0,,Santé publique France Data,,,sante-publique-france-data
-2020-04-28,departement,DEP-38,Isère,,,,,101.0,,32.0,210.0,13.0,1.0,398.0,,Santé publique France Data,,,sante-publique-france-data
+2020-04-28,departement,DEP-38,Isère,,,,,101.0,,32.0,210.0,12.0,1.0,398.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-28,departement,DEP-39,Jura,,,,,44.0,,10.0,97.0,3.0,2.0,156.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-28,departement,DEP-40,Landes,,,,,10.0,,4.0,25.0,0.0,0.0,44.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-28,departement,DEP-41,Loir-et-Cher,,,,,40.0,,13.0,128.0,2.0,0.0,108.0,,Santé publique France Data,,,sante-publique-france-data
@@ -8178,7 +8178,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-04-28,departement,DEP-66,Pyrénées-Orientales,,,,,30.0,,8.0,19.0,3.0,0.0,255.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-28,departement,DEP-67,Bas-Rhin,,,,,503.0,,162.0,902.0,31.0,1.0,1613.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-28,departement,DEP-68,Haut-Rhin,,,,,675.0,,101.0,898.0,33.0,3.0,1778.0,,Santé publique France Data,,,sante-publique-france-data
-2020-04-28,departement,DEP-69,Rhône,,,,,490.0,,163.0,1112.0,45.0,2.0,1749.0,,Santé publique France Data,,,sante-publique-france-data
+2020-04-28,departement,DEP-69,Rhône,,,,,490.0,,163.0,1112.0,46.0,2.0,1749.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-28,departement,DEP-70,Haute-Saône,,,,,67.0,,13.0,98.0,3.0,0.0,170.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-28,departement,DEP-71,Saône-et-Loire,,,,,155.0,,28.0,234.0,32.0,2.0,415.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-28,departement,DEP-72,Sarthe,,,,,51.0,,15.0,141.0,5.0,0.0,206.0,,Santé publique France Data,,,sante-publique-france-data
@@ -8389,7 +8389,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-04-30,departement,DEP-35,Ille-et-Vilaine,,,,,70.0,,15.0,150.0,3.0,0.0,277.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-30,departement,DEP-36,Indre,,,,,64.0,,9.0,126.0,4.0,0.0,61.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-30,departement,DEP-37,Indre-et-Loire,,,,,58.0,,29.0,159.0,7.0,0.0,207.0,,Santé publique France Data,,,sante-publique-france-data
-2020-04-30,departement,DEP-38,Isère,,,,,107.0,,27.0,165.0,6.0,1.0,447.0,,Santé publique France Data,,,sante-publique-france-data
+2020-04-30,departement,DEP-38,Isère,,,,,107.0,,27.0,165.0,6.0,0.0,447.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-30,departement,DEP-39,Jura,,,,,46.0,,8.0,99.0,10.0,0.0,165.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-30,departement,DEP-40,Landes,,,,,10.0,,3.0,23.0,8.0,0.0,54.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-30,departement,DEP-41,Loir-et-Cher,,,,,46.0,,11.0,136.0,23.0,2.0,131.0,,Santé publique France Data,,,sante-publique-france-data
@@ -8420,7 +8420,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-04-30,departement,DEP-66,Pyrénées-Orientales,,,,,33.0,,8.0,16.0,0.0,0.0,258.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-30,departement,DEP-67,Bas-Rhin,,,,,518.0,,155.0,875.0,23.0,2.0,1686.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-30,departement,DEP-68,Haut-Rhin,,,,,688.0,,100.0,869.0,43.0,1.0,1894.0,,Santé publique France Data,,,sante-publique-france-data
-2020-04-30,departement,DEP-69,Rhône,,,,,513.0,,157.0,1092.0,40.0,3.0,1820.0,,Santé publique France Data,,,sante-publique-france-data
+2020-04-30,departement,DEP-69,Rhône,,,,,513.0,,157.0,1092.0,40.0,4.0,1820.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-30,departement,DEP-70,Haute-Saône,,,,,69.0,,9.0,101.0,2.0,0.0,173.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-30,departement,DEP-71,Saône-et-Loire,,,,,159.0,,24.0,238.0,28.0,2.0,443.0,,Santé publique France Data,,,sante-publique-france-data
 2020-04-30,departement,DEP-72,Sarthe,,,,,55.0,,9.0,119.0,3.0,0.0,228.0,,Santé publique France Data,,,sante-publique-france-data
@@ -8805,9 +8805,9 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-05-03,departement,DEP-88,Vosges,,,,,237.0,,13.0,213.0,2.0,1.0,477.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-03,departement,DEP-89,Yonne,,,,,64.0,,18.0,106.0,6.0,0.0,173.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-03,departement,DEP-90,Territoire de Belfort,,,,,151.0,,17.0,129.0,1.0,0.0,373.0,,Santé publique France Data,,,sante-publique-france-data
-2020-05-03,departement,DEP-91,Essonne,,,,,423.0,,147.0,1178.0,9.0,4.0,1249.0,,Santé publique France Data,,,sante-publique-france-data
+2020-05-03,departement,DEP-91,Essonne,,,,,423.0,,147.0,1178.0,10.0,4.0,1249.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-03,departement,DEP-92,Hauts-de-Seine,,,,,887.0,,247.0,1738.0,27.0,4.0,2875.0,,Santé publique France Data,,,sante-publique-france-data
-2020-05-03,departement,DEP-93,Seine-Saint-Denis,,,,,845.0,,178.0,1429.0,12.0,3.0,2275.0,,Santé publique France Data,,,sante-publique-france-data
+2020-05-03,departement,DEP-93,Seine-Saint-Denis,,,,,845.0,,178.0,1429.0,11.0,3.0,2275.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-03,departement,DEP-94,Val-de-Marne,,,,,949.0,,241.0,1830.0,15.0,5.0,2471.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-03,departement,DEP-95,Val-d'Oise,,,,,581.0,,90.0,883.0,5.0,0.0,1725.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-03,departement,DEP-971,Guadeloupe,,,,,17.0,,6.0,16.0,0.0,0.0,72.0,,Santé publique France Data,,,sante-publique-france-data
@@ -8998,7 +8998,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-05-05,departement,DEP-39,Jura,,,,,48.0,,6.0,83.0,1.0,1.0,181.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-05,departement,DEP-40,Landes,,,,,10.0,,3.0,17.0,0.0,0.0,58.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-05,departement,DEP-41,Loir-et-Cher,,,,,50.0,,9.0,142.0,10.0,1.0,143.0,,Santé publique France Data,,,sante-publique-france-data
-2020-05-05,departement,DEP-42,Loire,,,,,198.0,,58.0,377.0,9.0,1.0,648.0,,Santé publique France Data,,,sante-publique-france-data
+2020-05-05,departement,DEP-42,Loire,,,,,198.0,,58.0,377.0,8.0,0.0,648.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-05,departement,DEP-43,Haute-Loire,,,,,11.0,,1.0,33.0,2.0,0.0,72.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-05,departement,DEP-44,Loire-Atlantique,,,,,130.0,,20.0,207.0,8.0,2.0,441.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-05,departement,DEP-45,Loiret,,,,,75.0,,39.0,243.0,15.0,2.0,425.0,,Santé publique France Data,,,sante-publique-france-data
@@ -9025,7 +9025,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-05-05,departement,DEP-66,Pyrénées-Orientales,,,,,34.0,,5.0,11.0,1.0,0.0,266.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-05,departement,DEP-67,Bas-Rhin,,,,,550.0,,130.0,825.0,22.0,2.0,1776.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-05,departement,DEP-68,Haut-Rhin,,,,,712.0,,93.0,818.0,36.0,11.0,2002.0,,Santé publique France Data,,,sante-publique-france-data
-2020-05-05,departement,DEP-69,Rhône,,,,,542.0,,128.0,1044.0,30.0,4.0,1932.0,,Santé publique France Data,,,sante-publique-france-data
+2020-05-05,departement,DEP-69,Rhône,,,,,542.0,,128.0,1044.0,31.0,5.0,1932.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-05,departement,DEP-70,Haute-Saône,,,,,73.0,,8.0,97.0,2.0,1.0,181.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-05,departement,DEP-71,Saône-et-Loire,,,,,166.0,,19.0,224.0,12.0,0.0,472.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-05,departement,DEP-72,Sarthe,,,,,62.0,,8.0,123.0,7.0,1.0,239.0,,Santé publique France Data,,,sante-publique-france-data
@@ -9757,9 +9757,9 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-05-11,departement,DEP-72,Sarthe,,,,,69.0,,6.0,127.0,0.0,0.0,249.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-11,departement,DEP-73,Savoie,,,,,56.0,,6.0,55.0,3.0,1.0,341.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-11,departement,DEP-74,Haute-Savoie,,,,,153.0,,17.0,179.0,2.0,0.0,707.0,,Santé publique France Data,,,sante-publique-france-data
-2020-05-11,departement,DEP-75,Paris,,,,,1595.0,,314.0,1780.0,44.0,13.0,4737.0,,Santé publique France Data,,,sante-publique-france-data
+2020-05-11,departement,DEP-75,Paris,,,,,1595.0,,314.0,1780.0,43.0,13.0,4737.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-11,departement,DEP-76,Seine-Maritime,,,,,162.0,,24.0,163.0,7.0,0.0,617.0,,Santé publique France Data,,,sante-publique-france-data
-2020-05-11,departement,DEP-77,Seine-et-Marne,,,,,560.0,,93.0,563.0,15.0,0.0,2005.0,,Santé publique France Data,,,sante-publique-france-data
+2020-05-11,departement,DEP-77,Seine-et-Marne,,,,,560.0,,93.0,563.0,16.0,0.0,2005.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-11,departement,DEP-78,Yvelines,,,,,455.0,,67.0,718.0,9.0,1.0,1600.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-11,departement,DEP-79,Deux-Sèvres,,,,,19.0,,2.0,13.0,1.0,0.0,50.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-11,departement,DEP-80,Somme,,,,,198.0,,24.0,224.0,6.0,2.0,570.0,,Santé publique France Data,,,sante-publique-france-data
@@ -9878,7 +9878,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-05-12,departement,DEP-72,Sarthe,,,,,70.0,,4.0,124.0,4.0,0.0,255.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-12,departement,DEP-73,Savoie,,,,,57.0,,5.0,54.0,2.0,0.0,344.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-12,departement,DEP-74,Haute-Savoie,,,,,154.0,,16.0,165.0,2.0,0.0,722.0,,Santé publique France Data,,,sante-publique-france-data
-2020-05-12,departement,DEP-75,Paris,,,,,1599.0,,305.0,1743.0,53.0,11.0,4807.0,,Santé publique France Data,,,sante-publique-france-data
+2020-05-12,departement,DEP-75,Paris,,,,,1599.0,,305.0,1743.0,54.0,11.0,4807.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-12,departement,DEP-76,Seine-Maritime,,,,,162.0,,22.0,160.0,2.0,1.0,621.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-12,departement,DEP-77,Seine-et-Marne,,,,,565.0,,84.0,560.0,37.0,3.0,2040.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-12,departement,DEP-78,Yvelines,,,,,456.0,,60.0,695.0,27.0,1.0,1650.0,,Santé publique France Data,,,sante-publique-france-data
@@ -9895,7 +9895,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-05-12,departement,DEP-89,Yonne,,,,,74.0,,13.0,110.0,2.0,0.0,191.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-12,departement,DEP-90,Territoire de Belfort,,,,,165.0,,15.0,134.0,4.0,1.0,405.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-12,departement,DEP-91,Essonne,,,,,457.0,,107.0,952.0,14.0,1.0,1568.0,,Santé publique France Data,,,sante-publique-france-data
-2020-05-12,departement,DEP-92,Hauts-de-Seine,,,,,958.0,,169.0,1507.0,29.0,4.0,3255.0,,Santé publique France Data,,,sante-publique-france-data
+2020-05-12,departement,DEP-92,Hauts-de-Seine,,,,,958.0,,169.0,1507.0,28.0,4.0,3255.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-12,departement,DEP-93,Seine-Saint-Denis,,,,,906.0,,143.0,1251.0,60.0,11.0,2735.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-12,departement,DEP-94,Val-de-Marne,,,,,1029.0,,157.0,1454.0,18.0,2.0,3014.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-12,departement,DEP-95,Val-d'Oise,,,,,624.0,,54.0,781.0,14.0,2.0,1920.0,,Santé publique France Data,,,sante-publique-france-data
@@ -9999,9 +9999,9 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-05-13,departement,DEP-72,Sarthe,,,,,70.0,,4.0,126.0,6.0,0.0,258.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-13,departement,DEP-73,Savoie,,,,,57.0,,5.0,53.0,1.0,0.0,346.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-13,departement,DEP-74,Haute-Savoie,,,,,154.0,,16.0,165.0,6.0,0.0,728.0,,Santé publique France Data,,,sante-publique-france-data
-2020-05-13,departement,DEP-75,Paris,,,,,1603.0,,291.0,1701.0,31.0,9.0,4859.0,,Santé publique France Data,,,sante-publique-france-data
+2020-05-13,departement,DEP-75,Paris,,,,,1603.0,,291.0,1701.0,31.0,8.0,4859.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-13,departement,DEP-76,Seine-Maritime,,,,,164.0,,22.0,154.0,2.0,0.0,626.0,,Santé publique France Data,,,sante-publique-france-data
-2020-05-13,departement,DEP-77,Seine-et-Marne,,,,,566.0,,80.0,549.0,21.0,2.0,2068.0,,Santé publique France Data,,,sante-publique-france-data
+2020-05-13,departement,DEP-77,Seine-et-Marne,,,,,566.0,,80.0,549.0,21.0,3.0,2068.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-13,departement,DEP-78,Yvelines,,,,,457.0,,61.0,682.0,13.0,1.0,1675.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-13,departement,DEP-79,Deux-Sèvres,,,,,19.0,,2.0,10.0,0.0,0.0,53.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-13,departement,DEP-80,Somme,,,,,200.0,,22.0,213.0,1.0,1.0,581.0,,Santé publique France Data,,,sante-publique-france-data
@@ -10089,7 +10089,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-05-14,departement,DEP-41,Loir-et-Cher,,,,,55.0,,6.0,133.0,4.0,1.0,180.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-14,departement,DEP-42,Loire,,,,,216.0,,44.0,290.0,8.0,1.0,756.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-14,departement,DEP-43,Haute-Loire,,,,,14.0,,3.0,22.0,1.0,0.0,86.0,,Santé publique France Data,,,sante-publique-france-data
-2020-05-14,departement,DEP-44,Loire-Atlantique,,,,,139.0,,9.0,159.0,7.0,0.0,499.0,,Santé publique France Data,,,sante-publique-france-data
+2020-05-14,departement,DEP-44,Loire-Atlantique,,,,,139.0,,9.0,159.0,6.0,0.0,499.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-14,departement,DEP-45,Loiret,,,,,85.0,,25.0,177.0,2.0,2.0,481.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-14,departement,DEP-46,Lot,,,,,20.0,,0.0,12.0,0.0,0.0,58.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-14,departement,DEP-47,Lot-et-Garonne,,,,,8.0,,2.0,23.0,0.0,0.0,54.0,,Santé publique France Data,,,sante-publique-france-data
@@ -10130,7 +10130,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-05-14,departement,DEP-82,Tarn-et-Garonne,,,,,4.0,,6.0,7.0,0.0,0.0,37.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-14,departement,DEP-83,Var,,,,,124.0,,20.0,184.0,3.0,0.0,787.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-14,departement,DEP-84,Vaucluse,,,,,33.0,,1.0,33.0,0.0,0.0,221.0,,Santé publique France Data,,,sante-publique-france-data
-2020-05-14,departement,DEP-85,Vendée,,,,,33.0,,9.0,47.0,5.0,0.0,162.0,,Santé publique France Data,,,sante-publique-france-data
+2020-05-14,departement,DEP-85,Vendée,,,,,33.0,,9.0,47.0,6.0,0.0,162.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-14,departement,DEP-86,Vienne,,,,,36.0,,3.0,23.0,1.0,0.0,116.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-14,departement,DEP-87,Haute-Vienne,,,,,24.0,,4.0,32.0,0.0,0.0,101.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-14,departement,DEP-88,Vosges,,,,,248.0,,6.0,121.0,2.0,0.0,592.0,,Santé publique France Data,,,sante-publique-france-data
@@ -11814,7 +11814,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-05-28,departement,DEP-72,Sarthe,,,,,78.0,,2.0,89.0,0.0,0.0,297.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-28,departement,DEP-73,Savoie,,,,,66.0,,1.0,37.0,0.0,0.0,369.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-28,departement,DEP-74,Haute-Savoie,,,,,160.0,,6.0,117.0,1.0,0.0,795.0,,Santé publique France Data,,,sante-publique-france-data
-2020-05-28,departement,DEP-75,Paris,,,,,1689.0,,170.0,981.0,15.0,4.0,5558.0,,Santé publique France Data,,,sante-publique-france-data
+2020-05-28,departement,DEP-75,Paris,,,,,1689.0,,170.0,981.0,16.0,4.0,5558.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-28,departement,DEP-76,Seine-Maritime,,,,,175.0,,10.0,119.0,1.0,1.0,685.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-28,departement,DEP-77,Seine-et-Marne,,,,,631.0,,57.0,434.0,12.0,1.0,2307.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-28,departement,DEP-78,Yvelines,,,,,490.0,,38.0,584.0,10.0,1.0,1887.0,,Santé publique France Data,,,sante-publique-france-data
@@ -11831,7 +11831,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-05-28,departement,DEP-89,Yonne,,,,,84.0,,9.0,78.0,0.0,0.0,257.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-28,departement,DEP-90,Territoire de Belfort,,,,,173.0,,7.0,59.0,2.0,0.0,491.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-28,departement,DEP-91,Essonne,,,,,492.0,,60.0,655.0,5.0,0.0,1988.0,,Santé publique France Data,,,sante-publique-france-data
-2020-05-28,departement,DEP-92,Hauts-de-Seine,,,,,1017.0,,103.0,1117.0,12.0,2.0,3816.0,,Santé publique France Data,,,sante-publique-france-data
+2020-05-28,departement,DEP-92,Hauts-de-Seine,,,,,1017.0,,103.0,1117.0,11.0,2.0,3816.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-28,departement,DEP-93,Seine-Saint-Denis,,,,,946.0,,92.0,995.0,16.0,0.0,3165.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-28,departement,DEP-94,Val-de-Marne,,,,,1098.0,,65.0,1198.0,17.0,1.0,3418.0,,Santé publique France Data,,,sante-publique-france-data
 2020-05-28,departement,DEP-95,Val-d'Oise,,,,,674.0,,29.0,554.0,4.0,0.0,2245.0,,Santé publique France Data,,,sante-publique-france-data
@@ -13290,15 +13290,15 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-06-09,departement,DEP-971,Guadeloupe,,,,,16.0,,0.0,12.0,0.0,0.0,74.0,,Santé publique France Data,,,sante-publique-france-data
 2020-06-09,departement,DEP-972,Martinique,,,,,14.0,,0.0,10.0,0.0,0.0,87.0,,Santé publique France Data,,,sante-publique-france-data
 2020-06-09,departement,DEP-973,Guyane,,,,,2.0,,5.0,33.0,12.0,3.0,124.0,,Santé publique France Data,,,sante-publique-france-data
-2020-06-09,departement,DEP-974,La Réunion,,,,,1.0,,1.0,19.0,0.0,0.0,123.0,,Santé publique France Data,,,sante-publique-france-data
-2020-06-09,departement,DEP-976,Mayotte,,,,,23.0,,12.0,41.0,1.0,0.0,282.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-09,departement,DEP-974,La Réunion,,,,,1.0,,1.0,19.0,1.0,0.0,123.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-09,departement,DEP-976,Mayotte,,,,,23.0,,12.0,41.0,0.0,0.0,282.0,,Santé publique France Data,,,sante-publique-france-data
 2020-06-09,pays,FRA,France,154591.0,,37599.0,,18912.0,10384.0,955.0,11961.0,169.0,15.0,71506.0,,Ministère des Solidarités et de la Santé,,,ministere-sante
 2020-06-09,pays,FRA,France,,,,,18892.0,,926.0,11915.0,169.0,15.0,71496.0,,OpenCOVID19-fr,,,opencovid19-fr
 2020-06-09,region,REG-01,Guadeloupe,,,,,16.0,,0.0,12.0,0.0,0.0,74.0,,OpenCOVID19-fr,,,opencovid19-fr
 2020-06-09,region,REG-02,Martinique,,,,,14.0,,0.0,10.0,0.0,0.0,87.0,,OpenCOVID19-fr,,,opencovid19-fr
 2020-06-09,region,REG-03,Guyane,,,,,2.0,,5.0,33.0,12.0,3.0,124.0,,OpenCOVID19-fr,,,opencovid19-fr
-2020-06-09,region,REG-04,La Réunion,,,,,1.0,,1.0,19.0,0.0,0.0,123.0,,OpenCOVID19-fr,,,opencovid19-fr
-2020-06-09,region,REG-06,Mayotte,,,,,23.0,,12.0,41.0,1.0,0.0,282.0,,OpenCOVID19-fr,,,opencovid19-fr
+2020-06-09,region,REG-04,La Réunion,,,,,1.0,,1.0,19.0,1.0,0.0,123.0,,OpenCOVID19-fr,,,opencovid19-fr
+2020-06-09,region,REG-06,Mayotte,,,,,23.0,,12.0,41.0,0.0,0.0,282.0,,OpenCOVID19-fr,,,opencovid19-fr
 2020-06-09,region,REG-11,Île-de-France,,,,,7274.0,,444.0,5288.0,63.0,7.0,25895.0,,OpenCOVID19-fr,,,opencovid19-fr
 2020-06-09,region,REG-24,Centre-Val de Loire,,,,,523.0,,29.0,543.0,0.0,0.0,1815.0,,OpenCOVID19-fr,,,opencovid19-fr
 2020-06-09,region,REG-27,Bourgogne-Franche-Comté,,,,,1027.0,,22.0,299.0,10.0,1.0,3640.0,,OpenCOVID19-fr,,,opencovid19-fr
@@ -13433,3 +13433,124 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-06-10,region,REG-84,Auvergne-Rhône-Alpes,,,,,1712.0,,64.0,834.0,15.0,2.0,7378.0,,OpenCOVID19-fr,,,opencovid19-fr
 2020-06-10,region,REG-93,Provence-Alpes-Côte d'Azur,,,,,920.0,,59.0,758.0,9.0,0.0,5099.0,,OpenCOVID19-fr,,,opencovid19-fr
 2020-06-10,region,REG-94,Corse,,,,,58.0,,6.0,25.0,0.0,0.0,234.0,,OpenCOVID19-fr,,,opencovid19-fr
+2020-06-11,departement,DEP-01,Ain,,,,,100.0,,0.0,67.0,0.0,0.0,407.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-02,Aisne,,,,,270.0,,11.0,128.0,0.0,0.0,972.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-03,Allier,,,,,39.0,,0.0,12.0,3.0,0.0,189.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-04,Alpes-de-Haute-Provence,,,,,12.0,,0.0,8.0,0.0,0.0,123.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-05,Hautes-Alpes,,,,,18.0,,1.0,16.0,0.0,0.0,119.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-06,Alpes-Maritimes,,,,,183.0,,3.0,90.0,1.0,0.0,676.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-07,Ardèche,,,,,108.0,,4.0,22.0,1.0,0.0,422.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-08,Ardennes,,,,,54.0,,3.0,17.0,6.0,1.0,205.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-09,Ariège,,,,,2.0,,1.0,1.0,0.0,0.0,33.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-10,Aube,,,,,135.0,,3.0,33.0,4.0,1.0,606.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-11,Aude,,,,,58.0,,1.0,6.0,1.0,0.0,226.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-12,Aveyron,,,,,24.0,,0.0,6.0,0.0,0.0,138.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-13,Bouches-du-Rhône,,,,,541.0,,50.0,490.0,3.0,0.0,3070.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-14,Calvados,,,,,83.0,,1.0,47.0,0.0,0.0,288.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-15,Cantal,,,,,9.0,,1.0,7.0,0.0,0.0,50.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-16,Charente,,,,,13.0,,1.0,4.0,0.0,0.0,55.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-17,Charente-Maritime,,,,,48.0,,1.0,23.0,0.0,0.0,129.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-18,Cher,,,,,77.0,,0.0,46.0,0.0,0.0,158.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-19,Corrèze,,,,,37.0,,0.0,0.0,0.0,0.0,159.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-21,Côte-d'Or,,,,,248.0,,2.0,31.0,1.0,1.0,905.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-22,Côtes-d'Armor,,,,,36.0,,4.0,31.0,1.0,1.0,195.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-23,Creuse,,,,,12.0,,3.0,9.0,0.0,0.0,70.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-24,Dordogne,,,,,13.0,,0.0,13.0,0.0,0.0,85.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-25,Doubs,,,,,149.0,,4.0,25.0,0.0,0.0,616.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-26,Drôme,,,,,129.0,,2.0,37.0,0.0,0.0,490.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-27,Eure,,,,,80.0,,0.0,62.0,0.0,0.0,194.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-28,Eure-et-Loir,,,,,128.0,,13.0,129.0,3.0,1.0,469.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-29,Finistère,,,,,43.0,,1.0,20.0,0.0,0.0,168.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-2A,Corse-du-Sud,,,,,48.0,,4.0,22.0,0.0,0.0,127.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-2B,Haute-Corse,,,,,10.0,,2.0,3.0,0.0,0.0,107.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-30,Gard,,,,,94.0,,3.0,52.0,0.0,0.0,314.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-31,Haute-Garonne,,,,,71.0,,5.0,44.0,1.0,1.0,619.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-32,Gers,,,,,23.0,,1.0,3.0,0.0,0.0,86.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-33,Gironde,,,,,149.0,,11.0,87.0,2.0,0.0,894.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-34,Hérault,,,,,120.0,,2.0,16.0,1.0,0.0,692.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-35,Ille-et-Vilaine,,,,,86.0,,3.0,58.0,2.0,0.0,438.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-36,Indre,,,,,77.0,,3.0,84.0,0.0,0.0,108.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-37,Indre-et-Loire,,,,,82.0,,5.0,75.0,0.0,0.0,309.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-38,Isère,,,,,151.0,,5.0,58.0,1.0,0.0,650.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-39,Jura,,,,,60.0,,1.0,20.0,1.0,1.0,292.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-40,Landes,,,,,13.0,,1.0,5.0,0.0,0.0,71.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-41,Loir-et-Cher,,,,,63.0,,0.0,89.0,0.0,0.0,232.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-42,Loire,,,,,244.0,,11.0,142.0,0.0,0.0,903.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-43,Haute-Loire,,,,,17.0,,0.0,13.0,1.0,0.0,95.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-44,Loire-Atlantique,,,,,156.0,,5.0,86.0,12.0,1.0,628.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-45,Loiret,,,,,98.0,,9.0,91.0,0.0,0.0,568.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-46,Lot,,,,,22.0,,0.0,1.0,0.0,0.0,69.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-47,Lot-et-Garonne,,,,,10.0,,1.0,6.0,0.0,0.0,73.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-48,Lozère,,,,,1.0,,0.0,0.0,0.0,0.0,24.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-49,Maine-et-Loire,,,,,136.0,,5.0,85.0,6.0,0.0,552.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-50,Manche,,,,,47.0,,4.0,43.0,0.0,0.0,133.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-51,Marne,,,,,259.0,,10.0,110.0,2.0,0.0,961.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-52,Haute-Marne,,,,,84.0,,1.0,41.0,1.0,0.0,227.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-53,Mayenne,,,,,44.0,,1.0,9.0,0.0,0.0,172.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-54,Meurthe-et-Moselle,,,,,354.0,,10.0,120.0,7.0,2.0,1104.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-55,Meuse,,,,,98.0,,1.0,23.0,2.0,0.0,464.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-56,Morbihan,,,,,90.0,,3.0,46.0,0.0,0.0,402.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-57,Moselle,,,,,817.0,,34.0,353.0,0.0,0.0,2253.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-58,Nièvre,,,,,27.0,,1.0,10.0,0.0,0.0,87.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-59,Nord,,,,,601.0,,40.0,502.0,2.0,1.0,2064.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-60,Oise,,,,,395.0,,8.0,269.0,0.0,0.0,1037.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-61,Orne,,,,,37.0,,3.0,38.0,0.0,0.0,215.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-62,Pas-de-Calais,,,,,305.0,,26.0,212.0,0.0,0.0,1240.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-63,Puy-de-Dôme,,,,,42.0,,2.0,18.0,0.0,0.0,174.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-64,Pyrénées-Atlantiques,,,,,27.0,,0.0,5.0,0.0,0.0,218.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-65,Hautes-Pyrénées,,,,,26.0,,2.0,10.0,0.0,0.0,149.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-66,Pyrénées-Orientales,,,,,34.0,,1.0,1.0,0.0,0.0,277.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-67,Bas-Rhin,,,,,646.0,,11.0,397.0,2.0,1.0,2371.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-68,Haut-Rhin,,,,,794.0,,18.0,396.0,2.0,1.0,2652.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-69,Rhône,,,,,646.0,,22.0,313.0,6.0,0.0,2821.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-70,Haute-Saône,,,,,77.0,,0.0,19.0,0.0,0.0,288.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-71,Saône-et-Loire,,,,,199.0,,5.0,75.0,0.0,0.0,690.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-72,Sarthe,,,,,83.0,,2.0,58.0,1.0,0.0,330.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-73,Savoie,,,,,69.0,,0.0,24.0,0.0,0.0,387.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-74,Haute-Savoie,,,,,162.0,,3.0,98.0,0.0,0.0,820.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-75,Paris,,,,,1715.0,,112.0,748.0,9.0,2.0,5833.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-76,Seine-Maritime,,,,,178.0,,6.0,93.0,0.0,0.0,712.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-77,Seine-et-Marne,,,,,670.0,,49.0,359.0,5.0,2.0,2465.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-78,Yvelines,,,,,508.0,,27.0,477.0,7.0,0.0,2019.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-79,Deux-Sèvres,,,,,21.0,,0.0,4.0,0.0,0.0,64.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-80,Somme,,,,,219.0,,6.0,103.0,1.0,0.0,698.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-81,Tarn,,,,,23.0,,2.0,7.0,0.0,0.0,117.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-82,Tarn-et-Garonne,,,,,6.0,,1.0,3.0,0.0,0.0,42.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-83,Var,,,,,132.0,,5.0,106.0,1.0,0.0,900.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-84,Vaucluse,,,,,36.0,,0.0,29.0,0.0,0.0,232.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-85,Vendée,,,,,40.0,,1.0,41.0,0.0,0.0,227.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-86,Vienne,,,,,39.0,,0.0,10.0,0.0,0.0,137.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-87,Haute-Vienne,,,,,25.0,,0.0,10.0,0.0,0.0,120.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-88,Vosges,,,,,258.0,,1.0,40.0,0.0,0.0,700.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-89,Yonne,,,,,90.0,,5.0,51.0,1.0,0.0,287.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-90,Territoire de Belfort,,,,,181.0,,4.0,37.0,2.0,0.0,508.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-91,Essonne,,,,,512.0,,48.0,584.0,4.0,2.0,2087.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-92,Hauts-de-Seine,,,,,1060.0,,68.0,874.0,7.0,2.0,4109.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-93,Seine-Saint-Denis,,,,,968.0,,76.0,823.0,6.0,1.0,3404.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-94,Val-de-Marne,,,,,1175.0,,32.0,816.0,8.0,2.0,3786.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-95,Val-d'Oise,,,,,687.0,,16.0,469.0,1.0,0.0,2380.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-971,Guadeloupe,,,,,16.0,,0.0,12.0,0.0,0.0,74.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-972,Martinique,,,,,14.0,,0.0,10.0,0.0,0.0,87.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-973,Guyane,,,,,2.0,,7.0,42.0,9.0,1.0,133.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-974,La Réunion,,,,,1.0,,1.0,19.0,0.0,0.0,124.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,departement,DEP-976,Mayotte,,,,,23.0,,13.0,43.0,6.0,1.0,290.0,,Santé publique France Data,,,sante-publique-france-data
+2020-06-11,pays,FRA,France,155561.0,,37599.0,,18962.0,10384.0,903.0,11465.0,143.0,26.0,72149.0,,Ministère des Solidarités et de la Santé,,,ministere-sante
+2020-06-11,pays,FRA,France,,,,,18942.0,,875.0,11420.0,143.0,26.0,72139.0,,OpenCOVID19-fr,,,opencovid19-fr
+2020-06-11,region,REG-01,Guadeloupe,,,,,16.0,,0.0,12.0,0.0,0.0,74.0,,OpenCOVID19-fr,,,opencovid19-fr
+2020-06-11,region,REG-02,Martinique,,,,,14.0,,0.0,10.0,0.0,0.0,87.0,,OpenCOVID19-fr,,,opencovid19-fr
+2020-06-11,region,REG-03,Guyane,,,,,2.0,,7.0,42.0,9.0,1.0,133.0,,OpenCOVID19-fr,,,opencovid19-fr
+2020-06-11,region,REG-04,La Réunion,,,,,1.0,,1.0,19.0,0.0,0.0,124.0,,OpenCOVID19-fr,,,opencovid19-fr
+2020-06-11,region,REG-06,Mayotte,,,,,23.0,,13.0,43.0,6.0,1.0,290.0,,OpenCOVID19-fr,,,opencovid19-fr
+2020-06-11,region,REG-11,Île-de-France,,,,,7295.0,,428.0,5150.0,47.0,11.0,26083.0,,OpenCOVID19-fr,,,opencovid19-fr
+2020-06-11,region,REG-24,Centre-Val de Loire,,,,,525.0,,30.0,514.0,3.0,1.0,1844.0,,OpenCOVID19-fr,,,opencovid19-fr
+2020-06-11,region,REG-27,Bourgogne-Franche-Comté,,,,,1031.0,,22.0,268.0,5.0,2.0,3673.0,,OpenCOVID19-fr,,,opencovid19-fr
+2020-06-11,region,REG-28,Normandie,,,,,425.0,,14.0,283.0,0.0,0.0,1542.0,,OpenCOVID19-fr,,,opencovid19-fr
+2020-06-11,region,REG-32,Hauts-de-France,,,,,1790.0,,91.0,1214.0,3.0,1.0,6011.0,,OpenCOVID19-fr,,,opencovid19-fr
+2020-06-11,region,REG-44,Grand Est,,,,,3499.0,,92.0,1530.0,26.0,6.0,11543.0,,OpenCOVID19-fr,,,opencovid19-fr
+2020-06-11,region,REG-52,Pays de la Loire,,,,,459.0,,14.0,279.0,19.0,1.0,1909.0,,OpenCOVID19-fr,,,opencovid19-fr
+2020-06-11,region,REG-53,Bretagne,,,,,255.0,,11.0,155.0,3.0,1.0,1203.0,,OpenCOVID19-fr,,,opencovid19-fr
+2020-06-11,region,REG-75,Nouvelle-Aquitaine,,,,,407.0,,18.0,176.0,2.0,0.0,2075.0,,OpenCOVID19-fr,,,opencovid19-fr
+2020-06-11,region,REG-76,Occitanie,,,,,504.0,,19.0,150.0,3.0,1.0,2786.0,,OpenCOVID19-fr,,,opencovid19-fr
+2020-06-11,region,REG-84,Auvergne-Rhône-Alpes,,,,,1716.0,,50.0,811.0,12.0,0.0,7408.0,,OpenCOVID19-fr,,,opencovid19-fr
+2020-06-11,region,REG-93,Provence-Alpes-Côte d'Azur,,,,,922.0,,59.0,739.0,5.0,0.0,5120.0,,OpenCOVID19-fr,,,opencovid19-fr
+2020-06-11,region,REG-94,Corse,,,,,58.0,,6.0,25.0,0.0,0.0,234.0,,OpenCOVID19-fr,,,opencovid19-fr
