@@ -241,25 +241,39 @@ className="border-0",
 )
 
 
-#FIXME testo markdown
-markdown_data_info = dcc.Markdown('''
-The dashboard is updated daily following new daily releases of data from the data sources listed below.
+markdown_relevant_info = html.Div([
+    html.P([
+        "We focus on this dashboard on the French COVID-19 pandemic. This dashboard is part of a larger set of dashboards available ",
+        dcc.Link('on our website', href='https://www.learningfromthecurve.net/dashboards/', target="_top"),
+    ]),
+    html.P([
+        "Articles by members of the Learning from the Curve team reporting daily information on COVID-19 are available ",
+        dcc.Link('here', href='https://www.learningfromthecurve.net/commentaries/', target="_top"),
+    ]),
+    html.P([
+        "Please, report any bug at the following contact address: ",
+        dcc.Link('learningfromthecurve.info@gmail.com', href='mailto:learningfromthecurve.info@gmail.com'),
+    ]),
+])
 
-**Data source daily updated:**
-* [national,regions,provinces](https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv)
-
-**Other data:**
-* [Geojson](https://github.com/gregoiredavid/france-geojson/blob/master/departements.geojson).
-* [Regional population data](https://www.ined.fr/fichier/s_rubrique/159/en_population.region.departement.xls).
-''')
-
-markdown_relevant_info = dcc.Markdown('''
-We focus on this dashboard on the France COVID-19 pandemic. This dashboard is part of a larger set of dashboards available [on our website](https://www.learningfromthecurve.net/dashboards/).
-
-Articles by members of the Learning from the Curve team reporting daily information on COVID-19 are available [here](https://www.learningfromthecurve.net/commentaries/).
-
-Please, report any bug at the following contact address: learningfromthecurve.info@gmail.com.
-''')
+markdown_data_info = html.Div([
+    html.P([
+        "The dashboard is updated daily following new daily releases of data from the data sources listed below.",
+    ]),
+    html.P([
+        "Data source daily updated:",
+        html.Ul([
+            html.Li(dcc.Link('National, Regions, Departments', href='https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv', target="_blank"),),
+        ])
+    ]),
+    html.P([
+        "Other data:",
+        html.Ul([
+            html.Li(dcc.Link('Geojson', href='https://github.com/gregoiredavid/france-geojson/blob/master/departements.geojson', target="_blank"),),
+            html.Li(dcc.Link('Regional population data', href='https://www.ined.fr/fichier/s_rubrique/159/en_population.region.departement.xls', target="_blank"),),
+        ])
+    ]),
+])
 
 
 ############################
