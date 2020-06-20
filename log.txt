@@ -20,3 +20,5 @@
 [18/06/2020 20:17:18] new date added: {'2020-06-18'}
 [19/06/2020 20:17:12] --- NATIONAL FILE CHECK
 [19/06/2020 20:17:12] new date added: {'2020-06-19'}
+[20/06/2020 20:17:23] --- NATIONAL FILE CHECK
+[20/06/2020 20:17:23] no new date added
