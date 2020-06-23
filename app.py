@@ -281,7 +281,6 @@ markdown_data_info = html.Div([
 ############################
 
 app.layout = html.Div([ #Main Container   
-    html.Div([
     #Header TITLE
     html.Div([
         #Info Modal Button LEFT
@@ -474,13 +473,8 @@ app.layout = html.Div([ #Main Container
 
     ],
     className = "botRow d-flex"
-    )
-
-    ],
-    className="container-fluid cf py-2"
     ),
 
-    html.Div([
     #GRAPH GRID ROW 1
     dbc.Row([
         dbc.Col([
@@ -559,13 +553,10 @@ app.layout = html.Div([ #Main Container
         ],
         lg = 6, md = 12
         )
-    ]),
-
-    ],
-    className="container-fluid"
-    )
+    ])
 
 ],
+className="container-fluid cf py-2"
 )
 
 # draw the graph for the selected statistic from mortality rate/Share of infected population/Growth rate confirmed cases/Growth rate deaths
