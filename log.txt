@@ -40,3 +40,5 @@
 [28/06/2020 20:17:18] no new date added
 [29/06/2020 20:17:05] --- NATIONAL FILE CHECK
 [29/06/2020 20:17:05] no new date added
+[30/06/2020 20:17:24] --- NATIONAL FILE CHECK
+[30/06/2020 20:17:24] multiple new dates added: {'2020-06-27', '2020-06-30', '2020-06-28', '2020-06-29'}
