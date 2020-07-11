@@ -62,3 +62,5 @@
 [09/07/2020 20:17:39] new date added: {'2020-07-09'}
 [10/07/2020 20:17:59] --- NATIONAL FILE CHECK
 [10/07/2020 20:17:59] new date added: {'2020-07-10'}
+[11/07/2020 20:17:33] --- NATIONAL FILE CHECK
+[11/07/2020 20:17:33] no new date added
