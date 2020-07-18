@@ -18176,6 +18176,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-07-17,departement,DEP-973,Guyane,,,,,33.0,,25.0,150.0,24.0,3.0,729.0,,Santé publique France Data,,,sante-publique-france-data
 2020-07-17,departement,DEP-974,La Réunion,,,,,3.0,,4.0,22.0,0.0,0.0,152.0,,Santé publique France Data,,,sante-publique-france-data
 2020-07-17,departement,DEP-976,Mayotte,,,,,28.0,,2.0,10.0,1.0,0.0,399.0,,Santé publique France Data,,,sante-publique-france-data
+2020-07-17,pays,FRA,France,174674.0,,39464.0,,19611.0,10541.0,477.0,6688.0,119.0,17.0,79244.0,,Ministère des Solidarités et de la Santé,,,ministere-sante
 2020-07-17,pays,FRA,France,,,,,19591.0,,452.0,6646.0,119.0,17.0,79233.0,,OpenCOVID19-fr,,,opencovid19-fr
 2020-07-17,region,REG-01,Guadeloupe,,,,,16.0,,3.0,9.0,0.0,0.0,83.0,,OpenCOVID19-fr,,,opencovid19-fr
 2020-07-17,region,REG-02,Martinique,,,,,15.0,,5.0,13.0,0.0,0.0,91.0,,OpenCOVID19-fr,,,opencovid19-fr

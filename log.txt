@@ -76,3 +76,5 @@
 [16/07/2020 20:17:54] new date added: {'2020-07-16'}
 [17/07/2020 20:18:46] --- NATIONAL FILE CHECK
 [17/07/2020 20:18:46] new date added: {'2020-07-17'}
+[18/07/2020 20:18:07] --- NATIONAL FILE CHECK
+[18/07/2020 20:18:07] no new date added
