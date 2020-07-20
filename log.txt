@@ -80,3 +80,5 @@
 [18/07/2020 20:18:07] no new date added
 [19/07/2020 20:18:20] --- NATIONAL FILE CHECK
 [19/07/2020 20:18:20] no new date added
+[20/07/2020 20:18:30] --- NATIONAL FILE CHECK
+[20/07/2020 20:18:30] multiple new dates added: {'2020-07-19', '2020-07-20', '2020-07-18'}
