@@ -118,7 +118,6 @@ for col in df_nazione.columns:
         df_nazione[col] = df_nazione[col].astype(int)
     except:
         pass
-#print(df_nazione)
 df_regioni = df_regioni.drop(['granularite','maille_code'], axis=1)
 
 df_regioni = df_regioni.drop_duplicates(subset=['date','maille_nom'], keep='first')
@@ -143,7 +142,7 @@ tot_nazione_dimessi_guariti = df_nazione[['date', 'discharged_healed']]
 tot_nazione_casi = df_nazione[['date', 'total_cases']]
 tot_nazione_deceduti = df_nazione[['date', 'deceased']]
 tot_nazione = df_nazione[['date','total_hospitalized', 'discharged_healed', 'total_cases', 'deceased']]
-#print(tot_nazione_deceduti)
+#print(tot_nazione_casi)
 
 # for tab card left and plots
 
