@@ -22920,3 +22920,4 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-08-25,region,REG-84,Auvergne-Rhône-Alpes,,,,,1776.0,,19.0,257.0,35.0,2.0,8299.0,,OpenCOVID19-fr,,,opencovid19-fr
 2020-08-25,region,REG-93,Provence-Alpes-Côte d'Azur,,,,,986.0,,41.0,335.0,61.0,8.0,6254.0,,OpenCOVID19-fr,,,opencovid19-fr
 2020-08-25,region,REG-94,Corse,,,,,59.0,,2.0,9.0,3.0,1.0,256.0,,OpenCOVID19-fr,,,opencovid19-fr
+2020-08-26,pays,FRA,France,253587.0,,40043.0,,,10506.0,,,,,,,Ministère des Solidarités et de la Santé,,,ministere-sante
