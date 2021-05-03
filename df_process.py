@@ -65,19 +65,17 @@ df_france.to_csv(path_france, index = None)
 # Data preprocessing for getting useful data and shaping data compatible to plotly plot
 #########################################################################################
 # columns names for reference
-'''
-['date', 'granularite', 'maille_code', 'maille_nom', 'cas_confirmes',
-       'cas_ehpad', 'cas_confirmes_ehpad', 'cas_possibles_ehpad', 'deces',
-       'deces_ehpad', 'reanimation', 'hospitalises',
-       'nouvelles_hospitalisations', 'nouvelles_reanimations', 'gueris',
-       'depistes', 'source_nom', 'source_url', 'source_archive',
-       'source_type']
-'''
+
+#['date', 'granularite', 'maille_code', 'maille_nom', 'cas_confirmes', 'cas_ehpad', 'cas_confirmes_ehpad', 'cas_possibles_ehpad', 'deces',
+#       'deces_ehpad', 'reanimation', 'hospitalises', 'nouvelles_hospitalisations', 'nouvelles_reanimations', 'gueris',
+#       'depistes', 'source_nom', 'source_url', 'source_archive', 'source_type']
+
 #print(df_france)
 
 #formatting dates
 
-df_france['date'] = pd.to_datetime(df_france.date)
+df_france['date'] = pd.to_datetime(df_france.date, errors = 'coerce')
+df_france = df_france[pd.isnull(df_france.date) == False]
 df_france['date'] = df_france['date'].dt.strftime('%Y/%m/%d')
 df_france['total_cases'] = df_france.loc[:,['cas_confirmes','cas_confirmes_ehpad']].sum(axis=1)
 df_france['deceased'] = df_france.loc[:,['deces','deces_ehpad']].sum(axis=1)
@@ -142,7 +140,7 @@ tot_nazione_dimessi_guariti = df_nazione[['date', 'discharged_healed']]
 tot_nazione_casi = df_nazione[['date', 'total_cases']]
 tot_nazione_deceduti = df_nazione[['date', 'deceased']]
 tot_nazione = df_nazione[['date','total_hospitalized', 'discharged_healed', 'total_cases', 'deceased']]
-#print(tot_nazione_casi)
+print(tot_nazione_casi)
 
 # for tab card left and plots
 
